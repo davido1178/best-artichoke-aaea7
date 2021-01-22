@@ -91,6 +91,7 @@ sections:
         url: 'tel:0183620312'
         style: primary
         has_icon: false
+        new_window: true
   - section_id: recent-posts
     type: section_posts
     background: gray
