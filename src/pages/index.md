@@ -90,7 +90,7 @@ sections:
       - label: ☎ Appelez 0183620312 ☎
         url: 'tel:0183620312'
         style: primary
-        has_icon: true
+        has_icon: false
   - section_id: recent-posts
     type: section_posts
     background: gray
