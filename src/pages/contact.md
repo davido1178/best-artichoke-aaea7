@@ -34,6 +34,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-    submit_label: Send Message
+    submit_label: ENVOYER
 template: landing
 ---
