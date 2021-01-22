@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Traitement Punaise de Lit Professionnel
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Entreprise de désinsectisation anti punaises de lit agréée, intervention
+      sur mesure pour particuliers, professionnels & collectivités.
     actions:
       - label: Learn More
         url: /features
