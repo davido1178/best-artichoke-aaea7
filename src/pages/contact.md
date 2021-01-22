@@ -25,13 +25,6 @@ sections:
         name: email
         label: Votre Email
         is_required: true
-      - input_type: select
-        name: subject
-        label: Sujet
-        default_value: Please select
-        options:
-          - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message
