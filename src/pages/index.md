@@ -19,7 +19,7 @@ sections:
     title: Entreprise Anti Punaise de Lit
     subtitle: Experts de la Lutte Contre les Punaises de Lit
     features:
-      - title: The Best Feature of Your Services
+      - title: Ile de France
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
