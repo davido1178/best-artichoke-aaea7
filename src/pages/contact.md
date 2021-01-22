@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: DEVIS GRATUIT & INFORMATIONS
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Complétez le formulaire de contact, un dératiseur expérimenté prendra
+      contact avec vous très rapidement.
     form_id: contactForm
     form_fields:
       - input_type: text
