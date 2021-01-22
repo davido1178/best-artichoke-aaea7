@@ -10,7 +10,7 @@ sections:
       Entreprise de désinsectisation anti punaises de lit agréée, intervention
       sur mesure pour particuliers, professionnels & collectivités.
     actions:
-      - label: ☎ Appelez Nous
+      - label: ☎ Appelez Nous ☎
         url: /features
         style: primary
   - section_id: features
