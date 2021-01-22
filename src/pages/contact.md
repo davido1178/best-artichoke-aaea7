@@ -13,7 +13,7 @@ sections:
       - input_type: text
         name: name
         label: Votre Nom
-        is_required: false
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: Votre Telephone
