@@ -28,7 +28,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-      - input_type: checkbox
+      - input_type: text
         name: consent
         label: '  Nous vous contacterons dans un délai d''un jour ouvrable.'
         is_required: true
