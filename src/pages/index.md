@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Experts de la Lutte Contre les Punaises de Lit
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
