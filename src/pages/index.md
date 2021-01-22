@@ -11,7 +11,7 @@ sections:
       sur mesure pour particuliers, professionnels & collectivités.
     actions:
       - label: ☎ Appelez Nous ☎
-        url: /features
+        url: 'tel:0183620312'
         style: primary
   - section_id: features
     type: section_features
