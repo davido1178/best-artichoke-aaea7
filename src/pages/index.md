@@ -87,7 +87,7 @@ sections:
     title: Dites au revoir aux Punaises de Lit.
     subtitle: Recevez un devis gratuit et sans engagement.
     actions:
-      - label: ☎ Appelez 0183620312
+      - label: Appelez 0183620312
         url: 'tel:0183620312'
         style: primary
         has_icon: false
