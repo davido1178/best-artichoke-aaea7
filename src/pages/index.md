@@ -19,7 +19,7 @@ sections:
     title: Traitement Anti Punaise Partout en Ile de France
     subtitle: Experts de la Lutte Contre les Punaises de Lit
     features:
-      - title: Ile de France
+      - title: Particulier & Professionelle
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
