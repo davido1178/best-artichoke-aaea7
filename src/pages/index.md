@@ -13,7 +13,7 @@ sections:
       - label: ☎ Appelez 0183620312 ☎
         url: 'tel:0183620312'
         style: primary
-  - section_id: features
+  - section_id: ''
     type: section_features
     background: gray
     title: Traitement Anti Punaise Partout en Ile de France
