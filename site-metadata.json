@@ -28,7 +28,7 @@
             },
             {
                 "label": "DEVIS GRATUIT",
-                "url": "/signup",
+                "url": "/contact/",
                 "style": "primary"
             }
         ]
