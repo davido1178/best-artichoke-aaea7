@@ -10,7 +10,7 @@ sections:
       Entreprise de désinsectisation anti punaises de lit agréée, intervention
       sur mesure pour particuliers, professionnels & collectivités.
     actions:
-      - label: ☎ Appelez Nous ☎
+      - label: ☎ Appelez Nous 0183620312 ☎
         url: 'tel:0183620312'
         style: primary
   - section_id: features
