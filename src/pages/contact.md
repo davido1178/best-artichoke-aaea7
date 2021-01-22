@@ -23,7 +23,6 @@ sections:
         label: Sujet
         default_value: Please select
         options:
-          - Error on the site
           - Sponsorship
           - Other
       - input_type: textarea
