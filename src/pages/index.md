@@ -64,7 +64,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: TestimonialsNos engagements...
+    title: Nos Engagements
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
