@@ -88,7 +88,7 @@ sections:
     subtitle: Recevez un devis gratuit et sans engagement.
     actions:
       - label: ☎ Appelez 0183620312 ☎
-        url: ''
+        url: 'tel:0183620312'
         style: primary
   - section_id: recent-posts
     type: section_posts
