@@ -85,7 +85,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Dites au revoir aux Punaises de Lit.
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Recevez un devis gratuit et sans engagement.
     actions:
       - label: Get Started
         url: /signup
