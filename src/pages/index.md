@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Entreprise Anti Punaise de Lit
+    title: Entreprise Anti Punaise de Lit sur tout Ile de France
     subtitle: Experts de la Lutte Contre les Punaises de Lit
     features:
       - title: Ile de France
