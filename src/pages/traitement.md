@@ -1,5 +1,5 @@
 ---
-title: Traitement Pubaise de lit
+title: Traitement Punaise de lit
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
