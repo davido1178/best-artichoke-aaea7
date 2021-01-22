@@ -30,9 +30,7 @@ sections:
         label: Message
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: '  Nous vous contacterons dans un délai d''un jour ouvrable.'
         is_required: true
     submit_label: ENVOYER
 template: landing
