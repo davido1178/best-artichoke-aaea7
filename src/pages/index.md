@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Entreprise Anti Punaise de Lit
     subtitle: Experts de la Lutte Contre les Punaises de Lit
     features:
       - title: The Best Feature of Your Services
