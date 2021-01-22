@@ -87,7 +87,7 @@ sections:
     title: Dites au revoir aux Punaises de Lit.
     subtitle: Recevez un devis gratuit et sans engagement.
     actions:
-      - label: Get Started
+      - label: ☎ Appelez 0183620312 ☎
         url: /signup
         style: primary
   - section_id: recent-posts
